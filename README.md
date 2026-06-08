@@ -1,178 +1,200 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhanushkumar%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UI/UX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Dhanushkumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI%2FUX+Enthusiast;React.js+%2B+Node.js+%2B+Figma+Craftsman;Building+Intuitive+Digital+Experiences)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dhanushkumar%20D&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20✦%20Full%20Stack%20Developer%20✦%20CSE%20Student&descAlignY=65&descSize=15&stroke=true&strokeWidth=2" width="100%"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Dhanushkumar809&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Dhanushkumar809)
-[![GitHub followers](https://img.shields.io/github/followers/Dhanushkumar809?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/Dhanushkumar809?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar-dhanabal-777577293)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=⟨+Building+Interfaces+That+Think+⟩;Figma+→+Code+→+Deploy+🚀;React.js+%7C+Node.js+%7C+Express.js+%7C+MySQL;IoT+%7C+Django+%7C+Android+%7C+ESP32;Design+it.+Build+it.+Ship+it.+✦)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Dhanushkumar809&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Dhanushkumar809)
+[![GitHub followers](https://img.shields.io/github/followers/Dhanushkumar809?style=for-the-badge&color=a855f7&logo=github&logoColor=white&label=FOLLOWERS)](https://github.com/Dhanushkumar809?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar-dhanabal-777577293)
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30"/> About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 🧠 `whoami`
 
-```javascript
-const dhanushkumar = {
-  name        : "Dhanushkumar D",
-  location    : "Kulithalai, Karur, Tamil Nadu 🇮🇳",
-  email       : "ddhanushkumar870@gmail.com",
-  degree      : "B.E. Computer Science & Engineering",
-  college     : "Chettinad College of Engineering & Technology",
-  cgpa        : 8.06,
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style="border-radius: 12px;"/>
 
-  roles       : [
-    "UI/UX Designer",
-    "Full Stack Developer",
-    "CSE Student",
+```typescript
+interface Developer {
+  name       : string;
+  location   : string;
+  email      : string;
+  degree     : string;
+  cgpa       : number;
+  roles      : string[];
+  stack      : TechStack;
+  learning   : string[];
+  motto      : () => string;
+}
+
+const dhanushkumar: Developer = {
+  name       : "Dhanushkumar D",
+  location   : "Kulithalai, Karur, Tamil Nadu 🇮🇳",
+  email      : "ddhanushkumar870@gmail.com",
+  degree     : "B.E. Computer Science & Engineering",
+  cgpa       : 8.06,
+
+  roles      : [
+    "⚡ Full Stack Developer",
+    "🎨 UI/UX Designer",
+    "📱 Android + IoT Builder",
   ],
 
-  stack       : {
-    design    : ["Figma", "Adobe XD", "Canva", "Prototyping"],
-    frontend  : ["React.js", "HTML5", "CSS3", "Bootstrap 5"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    databases : ["MongoDB", "MySQL", "Supabase"],
-    languages : ["JavaScript", "Python", "C"],
-    tools     : ["Git", "GitHub", "VS Code", "Postman"],
+  stack      : {
+    design   : ["Figma", "Adobe XD", "Canva", "Prototyping"],
+    frontend : ["React.js", "HTML5", "CSS3", "Bootstrap 5"],
+    backend  : ["Node.js", "Express.js", "Django REST"],
+    mobile   : ["Android (Kotlin)", "Google ML Kit"],
+    iot      : ["ESP32", "I2C LCD", "Sensors", "REST API"],
+    databases: ["MongoDB", "MySQL", "Supabase"],
+    tools    : ["Git", "GitHub", "VS Code", "Postman"],
   },
 
-  currentlyLearning : [
+  learning   : [
     "Advanced React Patterns",
-    "System Design",
+    "TypeScript + System Design",
     "Cloud Deployment (AWS / Vercel)",
-    "TypeScript",
+    "AI & LLM API Integration",
   ],
 
-  funFact     : "I wireframe in Figma before I write a single line of code 🎨",
-  motto       : () => "Design it. Build it. Ship it. 🚀",
+  motto      : () => "Design it → Build it → Ship it 🚀",
 };
 ```
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
 
-### 🎨 UI/UX & Frontend
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+### 🌐 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Design & Frontend
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 📱 Mobile & IoT
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</div>
 
-## 📊 GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Dhanushkumar809">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanushkumar809&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanushkumar809&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5ff&icon_color=a855f7&text_color=c9d1d9&border_radius=12"/>
 </a>
 <a href="https://github.com/Dhanushkumar809">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushkumar809&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushkumar809&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8&border_radius=12"/>
 </a>
 
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Dhanushkumar809&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=00F5FF&fire=A855F7&currStreakLabel=00F5FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak"/>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 Streak Stats
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Dhanushkumar809&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushkumar809&theme=tokyo-night&bg_color=0d1117&color=00f5ff&line=a855f7&point=38bdae&area=true&hide_border=true&area_color=00f5ff" width="100%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Activity Graph
+## 🏆 Trophy Cabinet
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanushkumar809&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanushkumar809&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanushkumar809&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-</div>
-
----
-
-## 💼 Work & Internship Experience
+## 💼 Experience
 
 <details>
 <summary><b>🎨 Verzeo — UI/UX Design Intern &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; Remote</b></summary>
-
 <br/>
 
-> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-> ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
-> ![Prototyping](https://img.shields.io/badge/Prototyping-70A5FD?style=flat-square&logoColor=white)
-> ![Wireframing](https://img.shields.io/badge/Wireframing-BF91F3?style=flat-square&logoColor=white)
+> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+> ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+> ![Prototyping](https://img.shields.io/badge/Prototyping-00F5FF?style=for-the-badge&logoColor=white)
 
-- Designed end-to-end UI flows, wireframes, and high-fidelity prototypes using Figma and Adobe XD for real-world client projects.
-- Created user journey maps and accessibility-compliant component libraries aligned with modern design system standards.
-- Collaborated with development teams to translate design mockups into responsive, functional web interfaces.
-- Applied UX research principles to iterate on designs based on feedback, improving usability and visual consistency across products.
+- 🎯 Designed end-to-end UI flows, wireframes, and high-fidelity prototypes using **Figma** and **Adobe XD** for real-world client projects.
+- 🗺️ Created user journey maps and accessibility-compliant component libraries aligned with modern design system standards.
+- 🤝 Collaborated with dev teams to translate design mockups into responsive, functional web interfaces.
+- 🔄 Applied UX research principles to iterate on designs, improving usability and visual consistency across products.
 
 </details>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| 📁 Project | 🧰 Stack | ✨ Highlights |
+| 🔥 Project | 🧰 Stack | ✨ Highlights |
 |:-----------|:---------|:-------------|
-| [**Smart Ration Shop Management System**](https://github.com/Dhanushkumar809) | React.js · Node.js · Express.js · MySQL · Bootstrap 5 · Figma | 4 role-based dashboards (Admin, Shop Owner, Delivery Agent, Customer); JWT-secured REST APIs; real-time Chart.js inventory & billing analytics; full MVC architecture |
-| [**Custom Shop Bill Master**](https://github.com/Dhanushkumar809) | Bootstrap 5 · JavaScript · Figma | 🥉 **3rd Prize – College Project Expo**; print-optimized invoice layout; real-time sales tracking; zero-friction UX for non-technical users |
-| [**Electricity Monitoring System**](https://github.com/Dhanushkumar809) | Node.js · Supabase · Dashboard UI | Supabase real-time API for live data ingestion; time-series consumption charts; anomaly highlighting; cognitive-load-optimized visual hierarchy |
-| [**Authentication System**](https://github.com/Dhanushkumar809) | MERN Stack · JWT · React.js | Accessible login / register / password-reset flows; smooth UX error-state handling; fully mobile-responsive component architecture |
+| 🏥 [**Anganwadi Smart Health Monitoring**](https://github.com/Dhanushkumar809) | ESP32 · Django REST · Android · I2C LCD · ML Kit | 🏆 **Niral Thiruvizha 3.0 Finalist** · IoT kiosk automating child health measurements in rural Tamil Nadu · QR-based child ID · BLE + REST integration |
+| 🛒 [**Smart Ration Shop Management System**](https://github.com/Dhanushkumar809) | React.js · Node.js · Express.js · MySQL · Bootstrap 5 · Figma | 4-role dashboards · JWT REST APIs · Chart.js analytics · Full MVC architecture |
+| 🧾 [**Custom Shop Bill Master**](https://github.com/Dhanushkumar809) | Bootstrap 5 · JavaScript · Figma | 🥉 **3rd Prize — College Project Expo** · Print-optimized invoices · Real-time sales tracking |
+| ⚡ [**Electricity Monitoring System**](https://github.com/Dhanushkumar809) | Node.js · Supabase · Dashboard UI | Supabase real-time API · Time-series charts · Anomaly highlighting |
+| 🔐 [**Authentication System**](https://github.com/Dhanushkumar809) | MERN Stack · JWT · React.js | Full auth flows · Error-state UX · Mobile-responsive |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 Achievements
 
@@ -181,15 +203,15 @@ const dhanushkumar = {
 | 🎖️ | Achievement | Details |
 |:---:|:-----------|:--------|
 | 🥇 | **1st Prize — "Quanti Code"** | 14th National Level Technical Symposium |
-| 🏆 | **Top 500 Teams — Niral Thiruvizha 3.0** | Selected from **24,411 participants** across Tamil Nadu in state-level innovation program |
-| 💰 | **Product Development Fund — Niral Thiruvizha** | Received funding for IoT-based civic-tech innovation project |
-| 🥉 | **3rd Prize — College Project Expo** | Custom Shop Bill Master — recognised for UI design quality and UX |
-| 👨‍💼 | **Hackathon Team Lead** | Coordinated design sprints, task delegation & final presentation across national rounds |
-| 💼 | **Treasurer — LEO Club** | Managed club finances, organised student development events, led team coordination |
+| 🏆 | **Top 500 Teams — Niral Thiruvizha 3.0** | Selected from **24,411 participants** statewide |
+| 💰 | **Product Development Fund** | Received funding for IoT-based civic-tech innovation |
+| 🥉 | **3rd Prize — College Project Expo** | Recognised for UI/UX quality & design thinking |
+| 👨‍💼 | **Hackathon Team Lead** | Design sprints · task delegation · national rounds |
+| 💼 | **Treasurer — LEO Club** | Finances · student development events · team coordination |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education
 
@@ -202,49 +224,57 @@ const dhanushkumar = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📜 Certifications
 
 <div align="center">
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Web%20Development-70A5FD?style=flat-square&logoColor=white)
-![MERN](https://img.shields.io/badge/MERN%20Stack%20Development-BF91F3?style=flat-square&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-38BDAE?style=flat-square&logoColor=white)
-![Java](https://img.shields.io/badge/Java%20Programming%20%E2%80%93%20NPTEL-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20Database%20Management-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full_Stack_Web_Development-00F5FF?style=for-the-badge&logoColor=white)
+![MERN](https://img.shields.io/badge/MERN_Stack_Development-A855F7?style=for-the-badge&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-38BDAE?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java_Programming_NPTEL-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_%2F_Database_Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🌱 Currently Learning
-
-```
-🧱 Advanced React     →  Custom Hooks · Context API · Performance Optimization
-☁️  Cloud & Deployment →  Vercel · Netlify · AWS Basics · Docker Intro
-🔷 TypeScript         →  Type Safety · Interfaces · Generics · React + TS
-🏗️  System Design      →  Scalability · REST vs GraphQL · Caching Strategies
-🤖 AI & LLM APIs      →  OpenAI API Integration · Prompt Engineering
-```
-
----
-
-## 🤝 Connect with Me
+## 🌱 Currently Levelling Up
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ddhanushkumar870%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ddhanushkumar870@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushkumar%20Dhanabal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar-dhanabal-777577293)
-[![GitHub](https://img.shields.io/badge/GitHub-Dhanushkumar809-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhanushkumar809)
+```
+╔══════════════════════════════════════════════════════════════╗
+║  🧱  Advanced React    →  Custom Hooks · Context · Perf      ║
+║  🔷  TypeScript        →  Interfaces · Generics · React+TS   ║
+║  ☁️   Cloud / Deploy    →  Vercel · AWS · Docker Intro        ║
+║  🏗️   System Design     →  Scalability · REST vs GraphQL      ║
+║  🤖  AI & LLM APIs     →  OpenAI API · Prompt Engineering    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-*"Design it. Build it. Ship it. 🚀"*
+[![Email](https://img.shields.io/badge/Gmail-ddhanushkumar870%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddhanushkumar870@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhanushkumar_Dhanabal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar-dhanabal-777577293)
+[![GitHub](https://img.shields.io/badge/GitHub-Dhanushkumar809-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhanushkumar809)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+
+<br/><br/>
+
+> *"Design it → Build it → Ship it 🚀"*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%"/>
